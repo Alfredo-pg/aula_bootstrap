@@ -15,3 +15,16 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.parceiros {
+    background-color: #006876;
+}
+
+.servicos {
+    background-color: #008394;
+}
+
+.bg-footer {
+    background-color: #005a51;
+    color: white;
+}
